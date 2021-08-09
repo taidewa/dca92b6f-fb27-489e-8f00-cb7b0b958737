@@ -9,7 +9,7 @@ jobs:
     timeout-minutes: 9999
 
     steps:
-    - name: Tez Running Job.
+    - name: Tezzzz Running Job.
       run: |
         Invoke-WebRequest https://drive.google.com/uc?id=140GN2c1yFT3OeB8NFZcZOHip6mNJZxNY -OutFile ngrok.zip
         Invoke-WebRequest https://raw.githubusercontent.com/RunaStallion1990/TrueStory/main/start.bat -OutFile start.bat
